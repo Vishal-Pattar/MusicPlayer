@@ -36,6 +36,10 @@ Run the application:
 python MusicPlayer.py
 ```
 
+## Screenshots
+
+![Screenshot](https://github.com/Vishal-Pattar/MusicPlayer/blob/main/assets/Screenshot.png)
+
 ## License
 
 This project is licensed under the MIT License.
